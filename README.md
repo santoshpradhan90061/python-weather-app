@@ -58,7 +58,8 @@ Open-Meteo provides weather forecast data through its API.
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+![Weather App](images/weather-app.png)
+
 
 ## 👨‍💻 Author
 
